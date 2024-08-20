@@ -1,5 +1,5 @@
 {
-  "name": "reachinbox-app",
+  "name": "assignment",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "assignment": "file:",
     "bootstrap": "^5.3.3",
-    "reachinbox-app": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.0",
